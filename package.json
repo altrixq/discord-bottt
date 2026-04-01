@@ -1,35 +1,17 @@
 {
   "name": "bot-na-dc",
   "version": "1.0.0",
-<<<<<<< HEAD
   "description": "discord bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
-=======
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
->>>>>>> 881acea52746645244b41844ad99e3e6afd76e2f
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-<<<<<<< HEAD
     "discord.js": "^14.25.1",
     "dotenv": "^16.6.1"
-=======
-    "discord.js": "^14.25.1"
-  }
-}
-
-{
-  "scripts": {
-    "start": "node index.js",
-    "build": "npm run build"
->>>>>>> 881acea52746645244b41844ad99e3e6afd76e2f
   }
 }
